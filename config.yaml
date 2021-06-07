@@ -3,11 +3,9 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-    sound: 1
-    audio: 1
-    object detection: 3
-    material: 3
-    segmentation: 2
+        object detection: 3
+        material: 3
+        segmentation: 2
 
 # 通知の閾値
-score_threshold: 2
+score_threshold: 0
