@@ -3,9 +3,9 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        object detection: 3
         material: 3
-        segmentation: 2
+        segmentation: 3
+        object detection: 1
 
 # 通知の閾値
 score_threshold: 0
